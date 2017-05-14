@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SequenceDiagramParser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SequenceDiagramParser_jar</output-path>
+    <root id="archive" name="SequenceDiagramParser.jar">
+      <element id="module-output" name="SequenceDiagramParser" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/plantuml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/javaparser-core-2.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
